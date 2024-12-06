@@ -1,0 +1,84 @@
+body {
+  font-family: arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f8ff;
+  color: #333;
+}
+header {
+  background-color: #128;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+div ul {
+  list-style-type: none;
+  padding: 0;
+}
+div ul li a {
+  color: white;
+  text-decoration: none;
+}
+main {
+  padding: 20px;
+}
+section {
+  margin: 20px 0;
+  padding: 15px;
+  border: 1px solid #128;
+  border-radius: 5px;
+  background-color: white;
+  text-align: justify;
+}
+h2 {
+  color: #128;
+}
+section#alat ul {
+  list-style-type: square;
+  margin-left: 24px;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #128;
+  color: white;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+.bold {
+  font-weight: bold;
+}
+.italic {
+  font-weight: italic;
+}
+#definisi img {
+  width: 100%;
+  height: auto;
+  margin-top: 1rem;
+  border-radius: 8px;
+}
+#cuaca img {
+  width: 100%;
+  height: auto;
+  margin-top: 1rem;
+  border-radius: 8px;
+}
+#iklim img {
+  width: 100%;
+  height: auto;
+  margin-top: 1rem;
+  border-radius: 8px;
+}
+#ramal img {
+  width: 100%;
+  height: auto;
+  margin-top: 1rem;
+  border-radius: 8px;
+}
+#alat img {
+  width: 100%;
+  height: auto;
+  margin-top: 1rem;
+  border-radius: 8px;
+}
